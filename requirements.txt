@@ -1,0 +1,13 @@
+torch
+numpy
+pandas
+scikit-learn
+xgboost
+matplotlib
+opencv-python
+Pillow
+clip-by-openai
+streamlit
+shap
+scipy
+scikit-image

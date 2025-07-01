@@ -1,0 +1,24 @@
+# Ignore image files
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.gif
+
+# Ignore reconstructed and prediction folders
+reconstructed_images/
+checkpoints/
+results/
+data/train_images/
+data/test_images/
+
+# Ignore models and cache files
+*.pth
+*.pkl
+*.csv
+*.npy
+
+# Ignore IDE/editor caches
+__pycache__/
+*.log
+.DS_Store
